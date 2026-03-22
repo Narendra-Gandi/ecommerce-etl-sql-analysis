@@ -144,6 +144,6 @@ git clone https://github.com/your-username/ecommerce-etl-sql-analysis.git
 * Applied **SQL for real-world business analysis**
 * Ensured **data integrity and validation**
 
-![Database ERD Diagram](Database ERD Diagram.png)
+![Database ERD Diagram](database_ERD_diagram.png)
 
 ⭐ If you found this project useful, feel free to star the repository!
